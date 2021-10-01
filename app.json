@@ -27,7 +27,7 @@
         "DATABASE_URL": {
             "description": "fill with the mongodb url get from cloud.mongodb.com",
             "required": true,
-            "value": ""
+            "value": "mongodb+srv://botshunting:19892313@cluster0.5h54m.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
         },
         "LOG_CHANNEL": {
             "description": "create a private channel and get the channel id, add your bot as admin to the channel too",
