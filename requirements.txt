@@ -1,4 +1,4 @@
-pyromongo
+pymongo
 pyrogram
 tgcrypto
 py-tgcalls==0.5.5
